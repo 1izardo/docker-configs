@@ -4,4 +4,5 @@ A home for my Docker configs, scripts, and anything else I need to remember. Thi
 
 ## Contents
 
-1. [Setting Up WSL](./wsl-setup.md): instructions for installing WSL2, setting up an SSH server, forwarding ports to the host machine, and installing `docker` and `docker-compose`
+1. [Setting Up WSL](./wsl-setup.md): installing WSL2, setting up an SSH server, forwarding ports to the host machine, and installing `docker` and `docker-compose`
+2. [Setting Up NGINX](./nginx-setup.md): installing `nginx-proxy` with Docker Compose
