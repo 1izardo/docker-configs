@@ -52,4 +52,4 @@ Then run the following command:
 docker-compose up -d
 ```
 
-If all went well, you should be able to see the default NGINX page at the IP of your server.
+If all went well, you should be able to see some sort of page at the IP of your server.
